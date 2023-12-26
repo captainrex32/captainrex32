@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @captainrex32
+- 👋 Hi, I’m chayan 
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning python
 - 📫 How to reach me here 👉 https://www.instagram.com/chayanduttaroy2003?igsh=MTNiYzNiMzkwZA==
