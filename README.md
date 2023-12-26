@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi, I’m chayan</h1>
-- 👀 I’m interested in almost everything
+<h2 align="center">I’m interested in almost everything 🙃</h2>
 - 🌱 I’m currently learning python
 <h3 align="left"> contact me </h3>
 <p align="left">
