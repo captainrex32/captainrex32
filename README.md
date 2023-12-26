@@ -28,8 +28,7 @@ I'm Chayan, a part time developer from India🇮🇳.
 - 🎨 I enjoy creating digital art and design.
 - 🎥 Watching Movies is my hobbies.
 
-<!-- Connect with Me -->
-## 📫 Connect with Me
+
 <!-- Connect with Me -->
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/chayan-dutta-roy-2017b2298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
