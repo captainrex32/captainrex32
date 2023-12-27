@@ -16,11 +16,11 @@ I'm Chayan, a part time developer from India🇮🇳.
 
 <!-- Skills -->
 ## 🔧 Skills
-- **Programming Languages:** phython
+- **Programming Languages:** python
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=captainrex32&show_icons=true&count_private=true&hide=contribs)
 
 <!-- Animation and Additional Sections -->
 ## 🌈 Fun Facts
