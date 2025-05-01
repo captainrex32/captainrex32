@@ -7,7 +7,7 @@
 <!-- Introduction -->
 # Hi there! 👋
 
-I'm Chayan, a part time developer from India🇮🇳. 
+I'm Chayan, a part time developer and full time Accoundant from India. 
 
 ## 🚀 About Me
 - 🔭 I’m currently studying Bcom
