@@ -1,7 +1,7 @@
 
   <!-- Header -->
 <p align="center">
-  <img src="https://imagesupload.net/images/hVHUE.jpeg" alt="Your Name" width="200" height="200">
+  <img src="https://vault.pictures/p/b10e42db765548ef8241582081d1ea1c" alt="Chayan" width="200" height="200">
 </p>
 
 <!-- Introduction -->
