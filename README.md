@@ -10,8 +10,8 @@
 I'm Chayan, a part time developer and full time Accoundant from India. 
 
 ## 🚀 About Me
-- 🔭 I’m currently studying Bcom
-- 🌱 I’m currently learning Python & AI stuffs
+- 🔭 I’m a Bcom Graduate
+- 🌱 I’m currently working as an Accountant, Curious & learning Python & AI stuffs
 - 💬 Ask me about Bots and stuffs
 
 <!-- Skills -->
